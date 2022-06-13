@@ -1,6 +1,6 @@
 {
   "name": "storage-map",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Non-throwing Storage API wrapper",
   "sideEffects": false,
   "types": "./dist/dts/index.d.ts",
